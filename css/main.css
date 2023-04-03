@@ -1,0 +1,13 @@
+.dark {
+    background-color: #262729;
+    color: #FFFFFF;
+ }
+ 
+ .dark div[type="text"] {
+    background-color: #262729;
+    color: #D1D5DB;
+ }
+ .dark input[type="text"] {
+    background-color: #262729;
+    color: #D1D5DB;
+ }
