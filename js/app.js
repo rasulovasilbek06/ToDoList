@@ -44,7 +44,7 @@ function updateUI() {
     </div>
     `
   });
-  pushValueEl.textContent = `${count} items left`;
+  pushValueEl.textContent = `${count} qolgan narsalar`;
   todosEl.innerHTML = todosElement;
 }
 updateUI();
